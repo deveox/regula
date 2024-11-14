@@ -1,0 +1,34 @@
+{
+  "name": "@deveox/regula",
+  "description": "TypeScript ORM",
+  "type": "module",
+  "version": "0.1.0",
+  "author": "David Iunevich <f3oall@gmail.com>",
+  "keywords": [
+    "mongodb",
+    "document",
+    "model",
+    "schema",
+    "database",
+    "odm",
+    "data",
+    "datastore",
+    "query",
+    "nosql",
+    "orm",
+    "db"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "latest",
+    "mongoose": "^8.8.1"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  },
+  "module": "index.ts",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
