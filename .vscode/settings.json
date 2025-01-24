@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["BSON", "Timeseries"]
+  "cSpell.words": [
+    "BSON",
+    "ilike",
+    "Timeseries"
+  ],
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit"
+  }
 }

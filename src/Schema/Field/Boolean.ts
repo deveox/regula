@@ -1,4 +1,4 @@
-import { Driver } from '@/driver/index.js'
+import { Driver } from '@/Interface/index.js'
 import { Base } from './Base.js'
 
 export class Bool extends Base {

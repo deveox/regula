@@ -1,4 +1,4 @@
-import { Driver } from '@/driver/index.js'
+import { Driver } from '@/Interface/index.js'
 import { Long } from 'mongodb'
 
 export class Int64 extends Driver.Type.Int64<Long> {
